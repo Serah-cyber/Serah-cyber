@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serah-cyber
+- 👋 Hi, I’m @Serah-cypher
 - 👀 I’m interested in cyber security and forensics 
 - 🌱 I’m currently learning Bachelor of science in Information security and forensics 
 - 💞️ I’m looking to collaborate on penetration testing,ctfs, hackathons, digital forensics investigation, vulnerability researching 
